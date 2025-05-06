@@ -1,4 +1,3 @@
-# generate_dqn_expert_trajectories.py
 
 import os
 import torch
